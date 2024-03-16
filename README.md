@@ -18,16 +18,16 @@ software using C++ programming language
 
 ## Hardware Components
 
-Arduino Mega
-DC Water Pump
-Ultrasonic Sensor
-Soil Moisture Sensor
-Infrared Sensor
-Motor Driver Shield
-Servo Motor
-One channel Relay module
-Four wheels and four motors
+Arduino Mega,
+DC Water Pump,
+Ultrasonic Sensor,
+Soil Moisture Sensor,
+Infrared Sensor,
+Motor Driver Shield,
+Servo Motor,
+One channel Relay module,
+Four wheels and four motors,
 
 ## IMAGES
 
-![Images]()
+![Images](https://github.com/ChameshJayamanna/Automatic-Plant-Watering-System/blob/34909352e757d51338e89d244018cea29104fb66/Images/robot.jpg)
