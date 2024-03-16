@@ -13,8 +13,7 @@ water pump and soil moisture.
 
 ## CODE
 
-Automated plant watering system is programmed using Arduino IDE
-software using C++ programming language
+An automated plant watering system is programmed using Arduino IDE software with C++ programming language.
 
 ## Hardware Components
 
