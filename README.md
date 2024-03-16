@@ -1,6 +1,6 @@
 # Automatic Plant Watering System 
 
-An fully automated line following robot that will supply water to the plant according to the moisture level of the soil.
+A fully automated 'line following' robot that will supply water to the plant according to the moisture level of the soil.
 
 ## INFO
 
